@@ -1,0 +1,8 @@
+npm i -s mocha nodemon mongoose
+
+1. setiap model/class memiliki property/schema,
+  schema adalah type data yang diminta saat membuat record.
+  schema bersifat non plural =>
+
+2. pakai xit untuk pending testcase di dalam describe
+3. pakay it.only untuk menjalankan hanya 1 test case
